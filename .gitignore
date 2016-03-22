@@ -1,3 +1,4 @@
 IB Support
 *.xcuserstate
+!IDEPreferencesController.xcuserstate
 IDENamedTabStateContexts.plist
