@@ -1,0 +1,3 @@
+[submodule "CodeSnippets"]
+	path = CodeSnippets
+	url = git@github.com:iltercengiz/XcodeSnippets.git
